@@ -86,6 +86,7 @@ markers:
   - {type: punctuation, offset: 97, content: ',', id: KR2p0064_tls_001-bkkpn44}
   - {type: 'tls:seg', offset: 97, content: '', id: KR2p0064_tls_001-4a.5}
   - {type: punctuation, offset: 97, content: (, id: KR2p0064_tls_001-bkkpn45}
+  - {type: voice, offset: 97, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 98, content: ), id: KR2p0064_tls_001-bkkpn46}
   - {type: punctuation, offset: 100, content: ',', id: KR2p0064_tls_001-bkkpn47}
   - {type: 'tls:seg', offset: 100, content: '', id: KR2p0064_tls_001-4a.6}
@@ -127,4 +128,4 @@ markers:
   - {type: punctuation, offset: 134, content: ']', id: KR2p0064_tls_001-bkkpn74}
   - {type: xml-element, offset: 134, content: '', id: KR2p0064_tls_001-bkkxmlele10, name: p, role: close, attrs: {source: 'SHANGBO.PINGWANGYUWANGZIMU 6.35.5 (STRIPS 3,4, last strip of 《志書乃言》SH8) MACHENGYUAN 6: 270, 271, MACHENGYUAN 8: 225 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:82ac9de41f3822c84940d5076dacdff9c96655a8ed5b57cff09a55e3a409d284
+hash: sha256:cf7d91b9598b3b120fb2761dbf77aa90dcf35b6b879064d40ac2a10963498867
